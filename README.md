@@ -20,7 +20,7 @@ PORT = 9000
 SECRET = Tshirts // any hash key for password encryption
 STRIPE_SK ="<--Secret key of your stripe payment gateway-->" 
 ```
->This project use stripe as payment gate so u have to use it's Secret key which is present in your stripe dashboard.
+>This project use stripe as payment gateway so you have to use it's Secret key which is present in your stripe dashboard.
 >Make a .env file to declare all the above environment variabale.
 
    [MongoosJS]: <https://mongoosejs.com/>
