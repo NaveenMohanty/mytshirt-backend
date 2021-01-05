@@ -9,6 +9,7 @@ This is the backend of MyTshirt E-commerce website project.
 ### How to clone and run this project to your system.
 ```sh
 $ git clone https://github.com/NaveenMohanty/mytshirt-backend.git
+$ cd mytshirt-backend/
 $ npm install
 $ node app.js
 ```
